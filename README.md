@@ -1,10 +1,8 @@
-# starter
+# Flutter Widgets
 
-A new Flutter project.
+[Widget of the Day • Flutter](https://www.youtube.com/playlist?list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd) - [Mitch Koko](https://www.youtube.com/c/MitchKoko)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
